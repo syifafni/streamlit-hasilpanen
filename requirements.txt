@@ -1,0 +1,9 @@
+numpy==1.25.0
+pandas==2.0.2
+streamlit
+pickle
+sklearn
+scikit-learn
+pip==23.1.2
+seaborn
+matplotlib
